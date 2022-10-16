@@ -1,0 +1,13 @@
+root
+admin
+CEO
+test
+guest
+info
+adm
+user
+administrator
+toor
+dev
+master
+ceo
